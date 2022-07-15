@@ -33,7 +33,9 @@ Hello, I’m Benjamin, I build Android and iOS Applications with React Native  <
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 
-
+---
+<br />
+<br />
 
   - GitHub Stats
 
