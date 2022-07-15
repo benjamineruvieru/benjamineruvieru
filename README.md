@@ -3,8 +3,8 @@
 <p>
 Hello, I’m Benjamin, a Frontend developer. </p>
 <p>
-🔭 I use tools like Javascript (React Native) to build mobile apps.
-🌱 I’m currently learning ... AI / Machine Learning
-📫 How to reach me: ... benjamineruvieru@gmail.com
+🔭 I use tools like Javascript (React Native) to build mobile apps.</p>
+<p>🌱 I’m currently learning ... AI / Machine Learning</p>
+<p>📫 How to reach me: ... benjamineruvieru@gmail.com
 </p>
 
