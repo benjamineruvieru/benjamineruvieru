@@ -5,8 +5,21 @@ Hello, I’m Benjamin, a Frontend developer. </p>
 <p>
 🔭 I use tools like Javascript (React Native) to build mobile apps.</p>
 <p>🌱 I’m currently learning ... AI / Machine Learning</p>
-<p>📫 How to reach me: ... benjamineruvieru@gmail.com
+
 </p>
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/benjamin_eru#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/benjamin_eru#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/benjamin-eruvieru-32844119a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/benjamin-eruvieru-32844119a#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/benjamineruvieru#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/benjamineruvieru#gh-dark-mode-only)
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
