@@ -10,16 +10,16 @@ Hello, I’m Benjamin, a Frontend developer. </p>
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/benjamin_eru#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/benjamin_eru#gh-dark-mode-only)
+[![website](./IMG/twitter-light.svg)](https://twitter.com/benjamin_eru#gh-light-mode-only)
+[![website](./iMG/twitter-dark.svg)](https://twitter.com/benjamin_eru#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/benjamin-eruvieru-32844119a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/benjamin-eruvieru-32844119a#gh-dark-mode-only)
+[![website](./IMG/linkedin-light.svg)](https://www.linkedin.com/in/benjamin-eruvieru-32844119a#gh-light-mode-only)
+[![website](./IMG/linkedin-dark.svg)](https://www.linkedin.com/in/benjamin-eruvieru-32844119a#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/benjamineruvieru#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/benjamineruvieru#gh-dark-mode-only)
+[![website](./IMG/instagram-light.svg)](https://instagram.com/benjamineruvieru#gh-light-mode-only)
+[![website](./IMG/instagram-dark.svg)](https://instagram.com/benjamineruvieru#gh-dark-mode-only)
 
-
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
