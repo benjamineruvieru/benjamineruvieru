@@ -5,7 +5,7 @@ Hello, I’m Benjamin, I build Android and iOS Applications with React Native  <
 
 - 🌱 I’m currently learning AI / Machine Learning
 - 👯 I’m looking to collaborate with other React Native Developers
-- 🥅 2022 Goals: To collaborate with Nigerian developers and build a software solution for our country 
+- 🥅 2022 Goals: To collaborate with Nigerian developers to build a software solution for our nation 
 - ⚡ Fun fact: I love music
 
 ### Connect with me:
