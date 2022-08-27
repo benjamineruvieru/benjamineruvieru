@@ -36,6 +36,8 @@ Hello, I’m Benjamin, I build Android and iOS Applications with React Native  <
 <br />
 <br />
 
+### Recent Projects
+
 <p float="left">
 <img src="IMG/Pro1.png" width="300" height="550">
 <img src="IMG/Pro2.png" width="300" height="550">
