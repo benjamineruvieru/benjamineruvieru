@@ -5,7 +5,7 @@ Hello, I’m Benjamin, I build Android and iOS mobile Applications with React Na
 
 - 🌱 I’m currently learning everthing tech
 - 👯 I’m looking to collaborate with other React Native Developers
-- 🥅 2022 Goals: To add value as much as possible and to increase my contributions to opensource 
+- 🥅 2023 Goals: To greatly extend my skills in AI/Deep Learn and build my own NLP model
 - ⚡ Fun fact: I love music and dogs
 
 ## Connect with me:
