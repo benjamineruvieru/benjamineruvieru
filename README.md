@@ -52,6 +52,8 @@ Hello, I’m Benjamin, I build Android and iOS mobile Applications with React Na
 ## Recent Projects
 
 <p float="left">
+<img src="IMG/dashboard.png" width="300" height="550">
+<img src="IMG/swap.png" width="300" height="550">
 <img src="IMG/Pro1.png" width="300" height="550">
 <img src="IMG/Pro2.png" width="300" height="550">
 <img src="IMG/Pro3.png" width="300" height="550">
