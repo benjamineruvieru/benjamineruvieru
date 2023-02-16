@@ -62,8 +62,20 @@ Hello, I’m Benjamin, I build Android and iOS mobile Applications with React Na
 <img src="IMG/Pro6.png" width="300" height="550">
 </p>
 
-  <img align="left" alt="Benjamin Eruvieru GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=benjamineruvieru&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img  alt="Benjamin Eruvieru GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=benjamineruvieru&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+<br />
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamineruvieru&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benjamineruvieru&theme=dark)](https://git.io/streak-stats)
+
 
 [twitter]: https://twitter.com/benjamin_eru
 [instagram]: https://instagram.com/benjamineruvieru
 [linkedin]: https://www.linkedin.com/in/benjamineruvieru
+
