@@ -1,12 +1,13 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hello">
 
 <p>
-Hello, I’m Benjamin, I build Android and iOS mobile Applications with React Native  </p>
+Hello, I'm Benjamin, a passionate developer specializing in Android and iOS mobile applications built with React Native. My journey in the tech world has been an exciting one, and I'm constantly hungry to learn and grow. </p>
 
-- 🌱 I’m currently learning everthing tech
-- 👯 I’m looking to collaborate with other React Native Developers
-- 🥅 2023 Goals: To greatly extend my skills in AI/Deep Learn and build my own NLP model
-- ⚡ Fun fact: I love music and dogs
+- 🌱 Currently, I'm on a quest to expand my knowledge in all things tech. Whether it's exploring new programming languages, diving into the latest frameworks, or discovering innovative development techniques, I'm eager to absorb it all.
+- 👯 I'm actively seeking opportunities to collaborate with fellow React Native enthusiasts and professionals. Together, we can push the boundaries of mobile app development and create something extraordinary.
+- ⚡  Fun fact: When I'm not immersed in code, you'll find me lost in the rhythm of music or showering love on adorable dogs.
+
+Join me on this incredible journey of coding and exploration, where innovation knows no bounds. Let's connect, collaborate, and create the future together! 🚀
 
 ## Connect with me:
 
