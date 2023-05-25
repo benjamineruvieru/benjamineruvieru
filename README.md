@@ -58,8 +58,6 @@ Hello, I’m Benjamin, I build Android and iOS mobile Applications with React Na
 <img src="IMG/Pro1.png" width="300" height="550">
 <img src="IMG/Pro2.png" width="300" height="550">
 <img src="IMG/Pro3.png" width="300" height="550">
-<img src="IMG/Pro4.png" width="300" height="550">
-<img src="IMG/Pro5.png" width="300" height="550">
 <img src="IMG/Pro6.png" width="300" height="550">
 </p>
 
