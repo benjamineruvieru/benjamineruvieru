@@ -73,8 +73,6 @@ Join me on this incredible journey of coding and exploration, where innovation k
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benjamineruvieru&theme=dark)](https://git.io/streak-stats)
-
 
 [twitter]: https://twitter.com/benjamin_eru
 [instagram]: https://instagram.com/benjamineruvieru
